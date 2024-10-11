@@ -1,0 +1,46 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"EC9y_IsAkp\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Programming</span>\",\"col\":12}}]",
+ "creation": "2024-09-22 14:25:28.389815",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Programming",
+ "links": [],
+ "modified": "2024-09-23 15:43:49.060619",
+ "modified_by": "adityatelang74@gmail.com",
+ "module": "programming module",
+ "name": "Programming",
+ "number_cards": [],
+ "owner": "adityatelang74@gmail.com",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 38.0,
+ "shortcuts": [
+  {
+   "doc_view": "",
+   "label": "Single DocType",
+   "link_to": "Single DocType",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Submittable DocType",
+   "link_to": "Submittable DocType",
+   "type": "DocType"
+  },
+  {
+   "doc_view": "",
+   "label": "Normal Doctype",
+   "link_to": "Normal Doctype",
+   "type": "DocType"
+  }
+ ],
+ "title": "Programming"
+}
